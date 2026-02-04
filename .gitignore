@@ -1,0 +1,15 @@
+# Unreal
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+
+# IDE
+.vs/
+.idea/
+
+# OS / misc
+*.sln
+*.png
+
